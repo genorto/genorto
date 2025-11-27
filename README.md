@@ -18,6 +18,4 @@ XML          43 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 # 🧩 My Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,qt,git,docker,md)](https://skillicons.dev)
-## Currently Learning
-[![Currently Learning](https://skillicons.dev/icons?i=java,maven,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,docker,git,java,maven,postgresql,qt)](https://skillicons.dev)
