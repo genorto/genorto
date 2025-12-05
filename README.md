@@ -5,15 +5,15 @@ My name is Gleb. I am a first-year bachelor's student at MIPT HSSE in Russia.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2025 - To: 02 December 2025
+From: 26 November 2025 - To: 03 December 2025
 
-Total Time: 12 hrs 13 mins
+Total Time: 15 hrs 9 mins
 
-Java         5 hrs 45 mins   ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   47.16 %
-C++          3 hrs 46 mins   ▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░   30.88 %
-SQL          1 hr 10 mins    ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-Markdown     51 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Git Config   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Java         6 hrs 31 mins   ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░   43.06 %
+C++          5 hrs 52 mins   ▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░   38.72 %
+SQL          1 hr 16 mins    ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Markdown     54 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
